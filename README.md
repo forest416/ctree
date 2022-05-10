@@ -23,9 +23,9 @@ It is said that this work better than the original. For me both works.
 _upndown BP_loop |dot2png /tmp/out.png && eog out.png
 
 ```
-There are other command like *_upstream* *_downstream* *_upndown* *_relate* *_leaks*, for exploring. the function explain by its name.  
-The command without "_" has full function, but need modify the script to configure the display command in script( gqview vs eog).
-
+There are other command like ***_upstream*** ***_downstream*** ***_upndown*** ***_relate*** ***_leaks***, for exploring. 
+The function self explained by its name.  
+The command without "_" has full function, but need to modify the script to configure the display command in script( gqview vs eog).  
 
 
 ```sh
