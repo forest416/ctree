@@ -18,7 +18,7 @@ It is said that this work better than the original. For me both works.
 ```
 . ./calltree.sh
 ```
-3. generate call tree graph
+3. generate call tree graph. The command below is to gerneate and display call tree of function **BP_loop** and its up and down functions(recusively).
 ```
 _upndown BP_loop |dot2png /tmp/out.png && eog out.png
 
